@@ -19,7 +19,7 @@ apply plugin: 'docker'
 // end::plugin[]
 
 // This is used as the docker image prefix (org)
-group = 'gregturn'
+group = 'waylau'
 
 jar {
     baseName = 'docker-spring-boot-gradle'
